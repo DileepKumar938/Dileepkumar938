@@ -13,9 +13,6 @@
 - **Version Control:** Git, GitHub  
 - **Cloud & DevOps:** Azure, Docker, CI/CD  
 
-## 📈 GitHub Stats
-![Dileep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DileepKumar938&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/dileep-kumar-n-570896247/)
  
